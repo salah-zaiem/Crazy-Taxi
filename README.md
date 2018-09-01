@@ -1,4 +1,4 @@
-# Reinforcement Learning Agent for Crazy Taxi*
+# Reinforcement Learning Agent for Crazy Taxi
 We built from scratch the Crazy Taxi environment and a three learning agents using three different Reinforcement Learning algorithms. 
 
 ## Getting Started 
@@ -6,7 +6,9 @@ We built from scratch the Crazy Taxi environment and a three learning agents usi
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites Basic Python 3 libraries and and tkinter for visualisation. 
+
+## Prerequisites 
+Basic Python 3 libraries and and tkinter for visualisation. 
 ##Reward  
 The agent has two positive rewards : Staying alive at each turn and getting the coins that appear randomly in empty spaces. Getting a coin brings much more reward than just staying alive. 
 
