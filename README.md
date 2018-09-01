@@ -12,7 +12,9 @@ Basic Python 3 libraries and and tkinter for visualisation.
 ## Reward  
 The agent has two positive rewards : Staying alive at each turn and getting the coins that appear randomly in empty spaces. Getting a coin brings much more reward than just staying alive. 
 
- ##Instructions 
+ 
+## Instructions 
+
 
 There are two different codes :
 
