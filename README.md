@@ -1,5 +1,5 @@
 # Reinforcement Learning Agent for Crazy Taxi
-We built from scratch the Crazy Taxi environment and a three learning agents using three different Reinforcement Learning algorithms. 
+We built from scratch the Crazy Taxi environment and  three learning agents using three different Reinforcement Learning algorithms. 
 
 ## Getting Started 
 
